@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.45d8e71f.chunk.css",
+    "main.css": "/Website/static/css/main.1cf90b91.chunk.css",
     "main.js": "/Website/static/js/main.8ecc182b.chunk.js",
     "main.js.map": "/Website/static/js/main.8ecc182b.chunk.js.map",
     "runtime-main.js": "/Website/static/js/runtime-main.94847ad1.js",
@@ -8,9 +8,9 @@
     "static/js/2.65d541fc.chunk.js": "/Website/static/js/2.65d541fc.chunk.js",
     "static/js/2.65d541fc.chunk.js.map": "/Website/static/js/2.65d541fc.chunk.js.map",
     "index.html": "/Website/index.html",
-    "precache-manifest.5a8d266839c6e1a4eaeeca047e3dfeac.js": "/Website/precache-manifest.5a8d266839c6e1a4eaeeca047e3dfeac.js",
+    "precache-manifest.6ac3f6064286726c7686a7194f8096c9.js": "/Website/precache-manifest.6ac3f6064286726c7686a7194f8096c9.js",
     "service-worker.js": "/Website/service-worker.js",
-    "static/css/main.45d8e71f.chunk.css.map": "/Website/static/css/main.45d8e71f.chunk.css.map",
+    "static/css/main.1cf90b91.chunk.css.map": "/Website/static/css/main.1cf90b91.chunk.css.map",
     "static/media/Qio_Logo.png": "/Website/static/media/Qio_Logo.8462900a.png",
     "static/media/cout.svg": "/Website/static/media/cout.14dc4eba.svg",
     "static/media/squadW.jpg": "/Website/static/media/squadW.ff4fe815.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.94847ad1.js",
     "static/js/2.65d541fc.chunk.js",
-    "static/css/main.45d8e71f.chunk.css",
+    "static/css/main.1cf90b91.chunk.css",
     "static/js/main.8ecc182b.chunk.js"
   ]
 }
