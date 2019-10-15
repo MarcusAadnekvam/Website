@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import cout from './svg/cout.svg';
+import qioLogo from './pics/Qio_Logo.png';
 
    // <img src={cout} className="cout" href="/"/>
             //<a href={'#/'}>
@@ -14,8 +15,12 @@ function Nav(){
     }
     return (
         <nav>
-            <img src={cout} />
-            <ul className="nav-links">  
+            
+            <ul className="nav-links"> 
+
+                <Link to="/" exact>
+                    <img src={qioLogo} width="50px" height="30px" />
+                </Link>
                 <Link style={navStyle} to="/" exact>
                  <li>Home</li>
                 </Link>
