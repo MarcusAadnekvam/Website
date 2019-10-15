@@ -2,9 +2,13 @@ import React from 'react';
 import Nav from './Utility/Nav';
 import About from './Components/About';
 import Projects from './Components/Projects';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import GoogleyEyes from './Components/GoogleyEyes';
+import HubcapDemo from './Components/HubcapDemo';
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 
 import './App.css';
+
+//npm run deploy
 
 function App() {
   return (
@@ -14,11 +18,11 @@ function App() {
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/About" component={About} />
-          <Route path="/Projects" component={Projects} />
+          <Route path="/Projects" component={GoogleyEyes} />
+          <Route path="/hubcap" component={HubcapDemo} />
         </Switch>
       </div>
     </Router>
-    
   );
 }
 
